@@ -1,7 +1,6 @@
 Big Sales Prediction Using Random Forest Regressor
 Objective
 The objective of this project is to predict the sales of servo mechanisms using a Random Forest Regressor based on various features provided in the dataset.
-
 Data Source
 The dataset used in this project can be found here.
 
