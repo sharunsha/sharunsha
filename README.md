@@ -1,4 +1,4 @@
-# Hi, I'm Sharun Satheesh 👋
+# Hi, I'm Satheesh Sharun👋
 
 ### Aspiring Data Analyst | SQL • Python • Power BI • Excel
 
