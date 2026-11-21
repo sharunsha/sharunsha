@@ -1,3 +1,5 @@
+![Sharun Satheesh - Data Analyst](assets/profile-banner.svg)
+
 # Hi, I'm Satheesh Sharun👋
 
 ### Aspiring Data Analyst | SQL • Python • Power BI • Excel
@@ -68,9 +70,15 @@ Academic project exploring power-system security assessment using machine-learni
 ## 📊 GitHub Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharunsha&show_icons=true&hide_border=true" alt="Sharun's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharunsha&layout=compact&hide_border=true" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharunsha&show_icons=true&hide_border=true&theme=transparent" alt="Sharun's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharunsha&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
 </p>
+
+### Contribution Activity
+
+[![Sharun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sharunsha&theme=github-compact&hide_border=true)](https://github.com/sharunsha)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sharunsha&theme=transparent&hide_border=true)](https://github.com/sharunsha)
 
 ---
 
