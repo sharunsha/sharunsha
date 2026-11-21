@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="0.55" stop-color="#092b50"/>
+      <stop offset="1" stop-color="#06101f"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#16a5ff"/>
+      <stop offset="1" stop-color="#57e0ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#4b8dbb" stroke-opacity=".13" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <circle cx="1010" cy="130" r="190" fill="#0876c9" opacity=".09"/>
+  <circle cx="1010" cy="130" r="130" fill="none" stroke="#1b9bea" stroke-opacity=".18"/>
+  <g opacity=".78" fill="#147ec4">
+    <rect x="760" y="190" width="34" height="70" rx="5"/>
+    <rect x="812" y="156" width="34" height="104" rx="5"/>
+    <rect x="864" y="125" width="34" height="135" rx="5"/>
+    <rect x="916" y="145" width="34" height="115" rx="5"/>
+    <rect x="968" y="92" width="34" height="168" rx="5"/>
+    <rect x="1020" y="66" width="34" height="194" rx="5"/>
+    <rect x="1072" y="38" width="34" height="222" rx="5"/>
+  </g>
+  <path d="M742 174 L804 145 L850 158 L902 100 L952 118 L1000 72 L1050 82 L1115 28" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1093 29 L1116 27 L1113 50" fill="none" stroke="#57e0ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#8ddcff">
+    <circle cx="804" cy="145" r="5"/><circle cx="902" cy="100" r="5"/><circle cx="1000" cy="72" r="5"/><circle cx="1115" cy="28" r="6"/>
+  </g>
+  <g transform="translate(690 68)" fill="none" stroke="#54c9ff" stroke-width="3" opacity=".7">
+    <rect x="0" y="0" width="54" height="42" rx="6"/>
+    <path d="M9 30V22 M21 30V14 M33 30V8 M45 30V18"/>
+  </g>
+  <text x="72" y="112" fill="#f2f8ff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Sharun Satheesh</text>
+  <text x="75" y="164" fill="#38bdf8" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="5">DATA ANALYST</text>
+  <text x="75" y="211" fill="#c7d8e9" font-family="Arial, Helvetica, sans-serif" font-size="21">SQL  •  Python  •  Power BI  •  Excel</text>
+  <text x="75" y="248" fill="#8eaac4" font-family="Arial, Helvetica, sans-serif" font-size="17">Explore data. Build insights. Support better decisions.</text>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#2a6b9a" stroke-opacity=".55" stroke-width="2"/>
+</svg>
